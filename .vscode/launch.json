@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "massageapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "massageapp (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "customcarousel",
+            "cwd": "customcarousel",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "customcarousel (profile mode)",
+            "cwd": "customcarousel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}

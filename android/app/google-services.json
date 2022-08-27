@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998211404069",
+    "project_id": "golf-d7a85",
+    "storage_bucket": "golf-d7a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998211404069:android:3f5fb2ce8147068a685acc",
+        "android_client_info": {
+          "package_name": "com.korea.screengolf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998211404069-k8q8r23p6igd7i1v6icf4plp27jp4uff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.korea.screengolf",
+            "certificate_hash": "3beab10e2b41b1edec292b0c8c06dfab1e6a011b"
+          }
+        },
+        {
+          "client_id": "998211404069-o106ta2nbmllc36llsu07ao5afjm3jcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUi-A5VsWpHaBwke8CnVt9AnmZB9Q7b44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998211404069-o106ta2nbmllc36llsu07ao5afjm3jcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
